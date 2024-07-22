@@ -21,6 +21,6 @@ This is a simple multi-select dropdown component that allows users to select mul
 
 ## Demo
 
-[Live Demo]()
+[Live Demo](https://asmaahamid02.github.io/mutli-select-dropdown/)
 
 <img src="./assets/multi-select-dropdown.gif" alt="multi-select-dropdown" width="500"/>
